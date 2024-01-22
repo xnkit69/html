@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Learning HTML</title>
+  </head>
+  <body></body>
+</html>
